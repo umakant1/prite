@@ -1,0 +1,32 @@
+body{
+    background-image: url(image/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a{
+    width: 7px;
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid white;
+    background-color: pink;
+    color: black;
+    font-style: italic;
+    border-radius: 10px;
+    text-decoration: none;
+   
+}
+a:hover{
+    background-color: darkslategray;
+    color: wheat;
+}
+p{
+    color:blue;
+    font-size: medium;
+}
+.list{
+
+    float: right;
+}
+.list li{
+    display: inline;
+}
